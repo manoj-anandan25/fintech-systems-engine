@@ -41,10 +41,11 @@ Based on my technical projects in **CUDA Kernel Optimization** and **FX Graph Co
    pip install -r requirements.txt
 
 ```
+```
 
 2. **Run All Tests (CI-Ready):**
 ```bash
-python -m unittest tests/test_logic.py
+    python -m unittest tests/test_logic.py
 
 ```
 
@@ -64,8 +65,4 @@ python src/services/fraud_pipeline.py
 
 
 
-```
 
-into this README to visually show how the Transaction Engine and Fraud Pipeline connect?
-
-```
